@@ -56,5 +56,5 @@ folderArrangement:
   propertyIds:
     - event type
 askTemplateOnCreate: true
-templateFolder: Calendar/Templates
+templateFolder: LEA-Obsidian/Calendar/Templates
 ---
