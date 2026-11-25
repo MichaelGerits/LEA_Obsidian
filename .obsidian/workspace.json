@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e07bd19fc0ef961",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LEA-Obsidian/3EB01907CAD0093B7543DC-contract_FAST_signed.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3EB01907CAD0093B7543DC-contract_FAST_signed"
-            }
-          },
-          {
             "id": "aa4b51442f250c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+                "file": "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,7 +31,7 @@
                 "dbFilePath": "LEA-Obsidian/Document Hub/_database.md"
               },
               "icon": "table",
-              "title": "Document Hub"
+              "title": "Database"
             }
           },
           {
@@ -67,11 +55,11 @@
                 "dbFilePath": "LEA-Obsidian/Project management/Tasks/_database.md"
               },
               "icon": "table",
-              "title": "Tasks"
+              "title": "Database"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,8 +171,27 @@
   },
   "active": "3d249b08576ac35d",
   "lastOpenFiles": [
+    "LEA-Obsidian/Tasks/In progress/design external shell in cad.md",
+    "LEA-Obsidian/Tasks/In progress/Make code readable.md",
+    "LEA-Obsidian/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Tasks/Not started/Print the shells.md",
+    "LEA-Obsidian/Tasks/Not started/book X kitchen.md",
+    "LEA-Obsidian/Tasks/Not started/Assemble elctronics.md",
+    "LEA-Obsidian/Tasks/Templates/Task template.md",
+    "LEA-Obsidian/Tasks/Done/move everything to the new Git.md",
+    "LEA-Obsidian/Tasks/Done/send parameters to structures.md",
+    "LEA-Obsidian/Tasks/Done/Learn git.md",
+    "LEA-Obsidian/Tasks/Done/dummy.md",
+    "LEA-Obsidian/Tasks/Done/design internal structure.md",
+    "LEA-Obsidian/Tasks/In progress",
+    "LEA-Obsidian/Tasks/Not started",
+    "LEA-Obsidian/Tasks/_database.md",
+    "LEA-Obsidian/Tasks/Templates",
+    "LEA-Obsidian/Tasks/Done",
+    "LEA-Obsidian/Tasks",
+    "LEA-Obsidian/Document Hub/Fast Contract.pdf",
     "LEA-Obsidian/Project management/Tasks/_database.md",
-    "Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+    "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
     "LEA-Obsidian/Order tracker/_database.md",
     "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
     "LEA-Obsidian/Project management/Tasks/Not started/book X kitchen.md",
@@ -198,26 +205,7 @@
     "LEA-Obsidian/Project management/Tasks/Done/design internal structure.md",
     "LEA-Obsidian/Project management/Tasks/Done",
     "LEA-Obsidian/Project management/Tasks/In progress/send parameters to structures.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/move everything to the new Git.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/move files to the correct branches.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/design internal structure.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/Make code readable.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/Learn git.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/design external shell in cad.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/book X kitchen.md",
     "LEA-Obsidian/Project management/Tasks/In progress",
-    "Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages",
-    "Demo SCRUM Quarter/Sprint (Start-End)/Ongoing",
-    "Demo SCRUM Quarter/Sprint (Start-End)/Tasks",
-    "LEA-Obsidian/Demo SCRUM Quarter/Sprint/Department",
-    "LEA-Obsidian/Document Hub/Document Hub New doc.md",
-    "LEA-Obsidian/Document Hub/_database.md",
-    "Demo SCRUM Quarter/Review (Start-End)",
-    "Demo SCRUM Quarter/Sprint (Start-End)",
-    "Demo SCRUM Quarter/Planning (Start-End)",
-    "Untitled.md",
-    "LEA-Obsidian/Document Hub/Fast Contract.md",
-    "LEA-Obsidian/Document Hub/Structures progress.md",
-    "LEA-Obsidian/Calendar/_database.md"
+    "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages"
   ]
 }
