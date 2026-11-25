@@ -18,6 +18,21 @@
               "icon": "table",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "253ebcb15314b92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEA-Obsidian/Project management/Tasks/In progress/Make code readable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Make code readable"
+            }
           }
         ]
       }
@@ -82,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5866be75ff842e25",
@@ -131,22 +147,22 @@
   },
   "active": "892dcce0bbc3b0a4",
   "lastOpenFiles": [
-    "LEA-Obsidian/Project management/Tasks/In progress/Learn git.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/design internal structure.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/book X kitchen.md",
+    "LEA-Obsidian/Project management/Tasks/Done/send parameters to structures.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/Make code readable.md",
+    "LEA-Obsidian/Project management/Tasks/Done/move files to the correct branches.md",
+    "LEA-Obsidian/Project management/Tasks/Done/move everything to the new Git.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Project management/Tasks/Templates/Task template.md",
+    "LEA-Obsidian/Project management/Tasks/Done/Learn git.md",
+    "LEA-Obsidian/Project management/Tasks/Done/design internal structure.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/book X kitchen.md",
     "LEA-Obsidian/Project management/Tasks/In progress/design external shell in cad.md",
     "LEA-Obsidian/Project management/Tasks/_database.md",
     "LEA-Obsidian/Project management/Tasks/Not started/Print the shells.md",
-    "LEA-Obsidian/Project management/Tasks/Templates/Task template.md",
     "LEA-Obsidian/Project management/Tasks/Templates",
     "LEA-Obsidian/Project management/Tasks/Done/dummy.md",
     "LEA-Obsidian/Project management/Tasks/Done",
-    "LEA-Obsidian/Project management/Tasks/In progress/send parameters to structures.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/move files to the correct branches.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/move everything to the new Git.md",
-    "LEA-Obsidian/Project management/Tasks/In progress/Make code readable.md",
     "LEA-Obsidian/Project management/Tasks/In progress",
-    "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
     "LEA-Obsidian/Project management/Tasks/Not started/Assemble elctronics.md",
     "LEA-Obsidian/Project management/Tasks/Not started",
     "LEA-Obsidian/Project management/Projects/_database.md",
