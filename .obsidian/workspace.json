@@ -8,30 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab04ae75268464e8",
+            "id": "2e07bd19fc0ef961",
             "type": "leaf",
             "state": {
-              "type": "notion-bases-view",
+              "type": "pdf",
               "state": {
-                "dbFilePath": "LEA-Obsidian/Calendar/_database.md"
+                "file": "LEA-Obsidian/3EB01907CAD0093B7543DC-contract_FAST_signed.pdf"
               },
-              "icon": "table",
-              "title": "Calendar"
+              "icon": "lucide-file-text",
+              "title": "3EB01907CAD0093B7543DC-contract_FAST_signed"
             }
           },
           {
-            "id": "293f8ff82c37303d",
+            "id": "aa4b51442f250c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(Priority) (Department) Demo Workpackage"
+            }
+          },
+          {
+            "id": "7147df442e7e082d",
             "type": "leaf",
             "state": {
               "type": "notion-bases-view",
               "state": {
-                "dbFilePath": "LEA-Obsidian/Order tracker/_database.md"
+                "dbFilePath": "LEA-Obsidian/Document Hub/_database.md"
               },
               "icon": "table",
-              "title": "Order tracker"
+              "title": "Document Hub"
+            }
+          },
+          {
+            "id": "a856ad5c49b33389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(Priority) (Department) Demo Workpackage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,11 +121,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 490.3000183105469
   },
   "right": {
     "id": "5866be75ff842e25",
@@ -110,8 +141,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -141,8 +172,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab04ae75268464e8",
+  "active": "3d249b08576ac35d",
   "lastOpenFiles": [
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Ongoing",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Tasks",
+    "LEA-Obsidian/Demo SCRUM Quarter/Sprint/Department",
+    "LEA-Obsidian/Document Hub/Document Hub New doc.md",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+    "LEA-Obsidian/Document Hub/_database.md",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Review (Start-End)",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Planning (Start-End)",
+    "Untitled.md",
+    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter",
+    "LEA-Obsidian/Document Hub/Fast Contract.md",
+    "LEA-Obsidian/3EB01907CAD0093B7543DC-contract_FAST_signed.pdf",
+    "LEA-Obsidian/Document Hub/Structures progress.md",
     "LEA-Obsidian/Order tracker/_database.md",
     "LEA-Obsidian/Calendar/_database.md",
     "Calendar/_database.md"
