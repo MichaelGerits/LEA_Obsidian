@@ -12,11 +12,17 @@ Department:
 attendees:
 ---
 
-# Weekly meeting
 
 ## Updates
 
+
 - 
+	### simulation update
+	- 
+	### structures updates
+	- 
+	### manufacturing updates
+	- 
 
 ## Discussion points
 
@@ -28,7 +34,7 @@ Tasks due in the 7 days before this meeting.
 
 ```nb-database
 id: nbhxhwv4v8
-path: Project management/Tasks
+path: LEA-Obsidian/Tasks
 type: table
 ```
 
@@ -40,7 +46,7 @@ Tasks due in the 7 days after this meeting.
 
 ```nb-database
 id: nbq9la7hyl
-path: Project management/Tasks
+path: LEA-Obsidian/Tasks
 type: table
 ```
 

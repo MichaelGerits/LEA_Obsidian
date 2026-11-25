@@ -31,7 +31,9 @@ views:
     type: board
     filters: []
     sorts: []
-    hiddenColumns: []
+    hiddenColumns:
+      - Type
+      - Assigned to
     columnWidths: {}
     pinnedColumnId:
     name: Board

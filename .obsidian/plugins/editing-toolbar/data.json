@@ -1,6 +1,6 @@
 {
   "lastVersion": "4.1.14",
-  "aestheticStyle": "glass",
+  "aestheticStyle": "custom",
   "positionStyle": "top",
   "menuCommands": [
     {
@@ -425,8 +425,8 @@
   "viewTypeSettings": {},
   "appearanceByStyle": {
     "top": {
-      "toolbarIconSize": 18,
-      "aestheticStyle": "glass"
+      "toolbarIconSize": 12,
+      "aestheticStyle": "custom"
     },
     "following": {
       "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
@@ -449,7 +449,7 @@
   },
   "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
   "toolbarIconColor": "var(--text-normal)",
-  "toolbarIconSize": 18,
+  "toolbarIconSize": 12,
   "useCurrentLineForRegex": false,
   "ai": {
     "enabled": false,

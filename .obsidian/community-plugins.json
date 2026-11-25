@@ -2,5 +2,6 @@
   "notion-bases",
   "dragger",
   "editing-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "slash-commander"
 ]

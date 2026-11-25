@@ -3,7 +3,7 @@
 
 All project files live here:
 
-[PrandtlAircraft SharePoint – General folder](https://tud365.sharepoint.com/sites/PrandtlAircraft/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FPrandtlAircraft%2FGedeelde%20documenten%2FGeneral&viewid=ca6bb475%2Db8b3%2D4212%2Da93c%2D47078d69cf89&p=true&ga=1)
+[LEA Sharepoint](https://tud365.sharepoint.com/sites/PrandtlAircraft/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FPrandtlAircraft%2FGedeelde%20documenten%2FGeneral&viewid=ca6bb475%2Db8b3%2D4212%2Da93c%2D47078d69cf89&p=true&ga=1 "LEA Sharepoint")
 
 ## How to use it
 
