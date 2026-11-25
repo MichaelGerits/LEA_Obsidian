@@ -32,10 +32,12 @@ schema:
     visible: true
     width: 160
 views:
-  - id: default
-    type: table
+  - id: 8ec680ad-481d-440b-8bc8-82b8fd0b8767
+    type: board
     filters: []
     sorts: []
     hiddenColumns: []
     columnWidths: {}
+    pinnedColumnId:
+    name: Board
 ---

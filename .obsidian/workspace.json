@@ -30,8 +30,45 @@
               "icon": "table",
               "title": "Order tracker"
             }
+          },
+          {
+            "id": "95342bcec2fbaaa1",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/Questions-requests/_database.md"
+              },
+              "icon": "table",
+              "title": "Questions-requests"
+            }
+          },
+          {
+            "id": "9d83d47aed8dab0a",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/source Library/_database.md"
+              },
+              "icon": "table",
+              "title": "source Library"
+            }
+          },
+          {
+            "id": "83ff3ba292ea751c",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/Project management/Tasks/_database.md"
+              },
+              "icon": "table",
+              "title": "Tasks"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d249b08576ac35d",
+  "active": "83ff3ba292ea751c",
   "lastOpenFiles": [
+    "LEA-Obsidian/Project management/Tasks/_database.md",
+    "LEA-Obsidian/source Library/_database.md",
+    "LEA-Obsidian/Questions-requests/_database.md",
     "LEA-Obsidian/Order tracker/_database.md",
     "LEA-Obsidian/Calendar/_database.md",
     "Calendar/_database.md"
