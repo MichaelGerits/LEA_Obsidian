@@ -34,7 +34,8 @@
               "title": "Task template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,14 +130,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edbe2881a3985509",
+  "active": "57c110770a79ec55",
   "lastOpenFiles": [
+    "worspace.json.md",
+    "LEA-Obsidian/Tasks/Templates/Task template.md",
     "LEA-Obsidian/Tasks/(Priority) (Department) Demo Workpackage.md",
     "LEA-Obsidian/Lecture5-OpenSource-VersionControl-Git_2027.pdf",
     "LEA-Obsidian/image.png",
     "LEA-Obsidian/source Library/Lecture5-OpenSource-VersionControl-Git_2027.pdf",
     "LEA-Obsidian/Document Hub/SharePoint file storage.md",
-    "LEA-Obsidian/Tasks/Templates/Task template.md",
     "LEA-Obsidian/Tasks/Templates/(Priority) (Department) Demo Workpackage.md",
     "LEA-Obsidian/Tasks/_database.md",
     "Untitled.md",
@@ -162,7 +164,6 @@
     "LEA-Obsidian/Tasks/Not started",
     "LEA-Obsidian/source Library/_database.md",
     "LEA-Obsidian/Questions-requests/_database.md",
-    "LEA-Obsidian/Order tracker/_database.md",
-    "LEA-Obsidian/Calendar/_database.md"
+    "LEA-Obsidian/Order tracker/_database.md"
   ]
 }
