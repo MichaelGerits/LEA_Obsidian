@@ -8,22 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa4b51442f250c2b",
+            "id": "892dcce0bbc3b0a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "notion-bases-view",
               "state": {
-                "file": "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "dbFilePath": "LEA-Obsidian/Project management/Tasks/_database.md"
               },
-              "icon": "lucide-file",
-              "title": "(Priority) (Department) Demo Workpackage"
+              "icon": "table",
+              "title": "Database"
             }
           },
           {
-            "id": "7147df442e7e082d",
+            "id": "253ebcb15314b92f",
             "type": "leaf",
             "state": {
               "type": "notion-bases-view",
@@ -35,31 +32,22 @@
             }
           },
           {
-            "id": "a856ad5c49b33389",
+            "id": "2e20802443325dde",
             "type": "leaf",
             "state": {
-              "type": "notion-bases-view",
+              "type": "markdown",
               "state": {
-                "dbFilePath": "LEA-Obsidian/Order tracker/_database.md"
+                "file": "LEA-Obsidian/Tasks/Templates/Task template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "table",
-              "title": "Order tracker"
-            }
-          },
-          {
-            "id": "373180ba609aaeda",
-            "type": "leaf",
-            "state": {
-              "type": "notion-bases-view",
-              "state": {
-                "dbFilePath": "LEA-Obsidian/Project management/Tasks/_database.md"
-              },
-              "icon": "table",
-              "title": "Database"
+              "icon": "lucide-file",
+              "title": "Task template"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.3000183105469
+    "width": 300
   },
   "right": {
     "id": "5866be75ff842e25",
@@ -138,8 +126,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -159,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,43 +157,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "253ebcb15314b92f",
+  "active": "3d249b08576ac35d",
   "lastOpenFiles": [
-    "LEA-Obsidian/Tasks/In progress/design external shell in cad.md",
+    "Untitled.md",
+    "LEA-Obsidian/Lecture5-OpenSource-VersionControl-Git_2027.pdf",
+    "LEA-Obsidian/image.png",
+    "LEA-Obsidian/Document Hub/Fast Contract.md",
+    "LEA-Obsidian/Document Hub/Document Hub New doc.md",
+    "LEA-Obsidian/Document Hub/_database.md",
     "LEA-Obsidian/Tasks/In progress/Make code readable.md",
-    "LEA-Obsidian/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Project management/Projects/_database.md",
     "LEA-Obsidian/Tasks/Not started/Print the shells.md",
-    "LEA-Obsidian/Tasks/Not started/book X kitchen.md",
-    "LEA-Obsidian/Tasks/Not started/Assemble elctronics.md",
-    "LEA-Obsidian/Tasks/Templates/Task template.md",
-    "LEA-Obsidian/Tasks/Done/move everything to the new Git.md",
     "LEA-Obsidian/Tasks/Done/send parameters to structures.md",
+    "LEA-Obsidian/Project management/Tasks/Done/move files to the correct branches.md",
+    "LEA-Obsidian/Tasks/Done/move everything to the new Git.md",
+    "LEA-Obsidian/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Tasks/Templates/Task template.md",
     "LEA-Obsidian/Tasks/Done/Learn git.md",
-    "LEA-Obsidian/Tasks/Done/dummy.md",
     "LEA-Obsidian/Tasks/Done/design internal structure.md",
-    "LEA-Obsidian/Tasks/In progress",
-    "LEA-Obsidian/Tasks/Not started",
+    "LEA-Obsidian/Tasks/Not started/book X kitchen.md",
+    "LEA-Obsidian/Tasks/In progress/design external shell in cad.md",
     "LEA-Obsidian/Tasks/_database.md",
     "LEA-Obsidian/Tasks/Templates",
+    "LEA-Obsidian/Tasks/Done/dummy.md",
     "LEA-Obsidian/Tasks/Done",
-    "LEA-Obsidian/Tasks",
-    "LEA-Obsidian/Document Hub/Fast Contract.pdf",
-    "LEA-Obsidian/Project management/Tasks/_database.md",
-    "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+    "LEA-Obsidian/Tasks/In progress",
+    "LEA-Obsidian/Tasks/Not started/Assemble elctronics.md",
+    "LEA-Obsidian/Tasks/Not started",
+    "LEA-Obsidian/source Library/_database.md",
+    "LEA-Obsidian/Questions-requests/_database.md",
     "LEA-Obsidian/Order tracker/_database.md",
-    "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
-    "LEA-Obsidian/Project management/Tasks/Not started/book X kitchen.md",
-    "LEA-Obsidian/Project management/Tasks/Not started/Print the shells.md",
-    "LEA-Obsidian/Project management/Tasks/Not started/Assemble elctronics.md",
-    "LEA-Obsidian/Project management/Tasks/Not started",
-    "LEA-Obsidian/Project management/Tasks/Done/Learn git.md",
-    "LEA-Obsidian/Project management/Tasks/Done/move everything to the new Git.md",
-    "LEA-Obsidian/Project management/Tasks/Done/send parameters to structures.md",
-    "LEA-Obsidian/Project management/Tasks/Done/dummy.md",
-    "LEA-Obsidian/Project management/Tasks/Done/design internal structure.md",
-    "LEA-Obsidian/Project management/Tasks/Done",
-    "LEA-Obsidian/Project management/Tasks/In progress/send parameters to structures.md",
-    "LEA-Obsidian/Project management/Tasks/In progress",
-    "LEA-Obsidian/Tasks/Templates/Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages"
+    "LEA-Obsidian/Calendar/_database.md",
+    "Calendar/_database.md"
   ]
 }
