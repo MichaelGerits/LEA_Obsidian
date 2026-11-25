@@ -42,5 +42,15 @@ views:
     name: Board
     includeSubfolders: true
     boardHideNoValue: true
+    activePills:
+      - id: e76a1c21-103d-4e8d-827b-e7f5e97e1f7c
+        columnId: Status
+        operator: is_not
+        value: Templates
+        conjunction: and
 askTemplateOnCreate: true
+folderArrangement:
+  enabled: true
+  propertyIds:
+    - Status
 ---

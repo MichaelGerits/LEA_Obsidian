@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+                "file": "Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -50,19 +50,28 @@
             "id": "a856ad5c49b33389",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "notion-bases-view",
               "state": {
-                "aFile": "LEA-Obsidian/Project management/Tasks/clean up existing repo.md",
-                "bFile": "LEA-Obsidian/Project management/Tasks/clean up existing repo.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "dbFilePath": "LEA-Obsidian/Order tracker/_database.md"
               },
-              "icon": "diff",
-              "title": "Diff: clean up existing repo  (Index)"
+              "icon": "table",
+              "title": "Order tracker"
+            }
+          },
+          {
+            "id": "373180ba609aaeda",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/Project management/Tasks/_database.md"
+              },
+              "icon": "table",
+              "title": "Tasks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,9 +181,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a856ad5c49b33389",
+  "active": "3d249b08576ac35d",
   "lastOpenFiles": [
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+    "LEA-Obsidian/Project management/Tasks/_database.md",
+    "Demo SCRUM Quarter/(Priority) (Department) Demo Workpackage.md",
+    "LEA-Obsidian/Order tracker/_database.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/book X kitchen.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Print the shells.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Assemble elctronics.md",
+    "LEA-Obsidian/Project management/Tasks/Not started",
+    "LEA-Obsidian/Project management/Tasks/Done/Learn git.md",
+    "LEA-Obsidian/Project management/Tasks/Done/move everything to the new Git.md",
+    "LEA-Obsidian/Project management/Tasks/Done/send parameters to structures.md",
+    "LEA-Obsidian/Project management/Tasks/Done/dummy.md",
+    "LEA-Obsidian/Project management/Tasks/Done/design internal structure.md",
+    "LEA-Obsidian/Project management/Tasks/Done",
     "LEA-Obsidian/Project management/Tasks/In progress/send parameters to structures.md",
     "LEA-Obsidian/Project management/Tasks/In progress/move everything to the new Git.md",
     "LEA-Obsidian/Project management/Tasks/In progress/move files to the correct branches.md",
@@ -184,22 +206,18 @@
     "LEA-Obsidian/Project management/Tasks/In progress/design external shell in cad.md",
     "LEA-Obsidian/Project management/Tasks/In progress/book X kitchen.md",
     "LEA-Obsidian/Project management/Tasks/In progress",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Ongoing",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)/Tasks",
+    "Demo SCRUM Quarter/Sprint (Start-End)/Completed Workpackages",
+    "Demo SCRUM Quarter/Sprint (Start-End)/Ongoing",
+    "Demo SCRUM Quarter/Sprint (Start-End)/Tasks",
     "LEA-Obsidian/Demo SCRUM Quarter/Sprint/Department",
     "LEA-Obsidian/Document Hub/Document Hub New doc.md",
     "LEA-Obsidian/Document Hub/_database.md",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Review (Start-End)",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Sprint (Start-End)",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter/Planning (Start-End)",
+    "Demo SCRUM Quarter/Review (Start-End)",
+    "Demo SCRUM Quarter/Sprint (Start-End)",
+    "Demo SCRUM Quarter/Planning (Start-End)",
     "Untitled.md",
-    "LEA-Obsidian/Project management/Tasks/Demo SCRUM Quarter",
     "LEA-Obsidian/Document Hub/Fast Contract.md",
-    "LEA-Obsidian/3EB01907CAD0093B7543DC-contract_FAST_signed.pdf",
     "LEA-Obsidian/Document Hub/Structures progress.md",
-    "LEA-Obsidian/Order tracker/_database.md",
-    "LEA-Obsidian/Calendar/_database.md",
-    "Calendar/_database.md"
+    "LEA-Obsidian/Calendar/_database.md"
   ]
 }
