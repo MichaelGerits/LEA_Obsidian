@@ -14,7 +14,7 @@ schema:
   - id: summary
     name: summary
     type: text
-    visible: false
+    visible: true
     width: 260
   - id: Eng hours
     name: Eng hours
@@ -56,6 +56,7 @@ views:
     type: table
     filters: []
     sorts: []
-    hiddenColumns: []
+    hiddenColumns:
+      - summary
     columnWidths: {}
 ---
