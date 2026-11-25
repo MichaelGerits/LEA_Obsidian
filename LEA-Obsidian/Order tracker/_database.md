@@ -49,12 +49,6 @@ schema:
       - value: event
       - value: props
 views:
-  - id: default
-    type: table
-    filters: []
-    sorts: []
-    hiddenColumns: []
-    columnWidths: {}
   - id: 73718cd1-4dba-42ec-9d5c-ba9a113eae8f
     type: list
     filters: []

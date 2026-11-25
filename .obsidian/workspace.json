@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "6cdc5172767e8346",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94b362fa89fd098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab04ae75268464e8",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/Calendar/_database.md"
+              },
+              "icon": "table",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "293f8ff82c37303d",
+            "type": "leaf",
+            "state": {
+              "type": "notion-bases-view",
+              "state": {
+                "dbFilePath": "LEA-Obsidian/Order tracker/_database.md"
+              },
+              "icon": "table",
+              "title": "Order tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23f65b10a50751cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec35815ee11d8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6dfced18149da9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edbe2881a3985509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3d249b08576ac35d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5866be75ff842e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba0829a12d2c2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6056b4e2101bdec",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "759d7281b63023ea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "notion-bases:Notion Bases": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ab04ae75268464e8",
+  "lastOpenFiles": [
+    "LEA-Obsidian/Order tracker/_database.md",
+    "LEA-Obsidian/Calendar/_database.md",
+    "Calendar/_database.md"
+  ]
+}
