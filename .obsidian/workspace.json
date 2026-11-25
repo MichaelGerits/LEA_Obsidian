@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,7 +142,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab04ae75268464e8",
+  "active": "3d249b08576ac35d",
   "lastOpenFiles": [
     "LEA-Obsidian/Order tracker/_database.md",
     "LEA-Obsidian/Calendar/_database.md",
