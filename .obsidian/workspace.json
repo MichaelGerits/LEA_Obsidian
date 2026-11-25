@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab04ae75268464e8",
-            "type": "leaf",
-            "state": {
-              "type": "notion-bases-view",
-              "state": {
-                "dbFilePath": "LEA-Obsidian/Calendar/_database.md"
-              },
-              "icon": "table",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "293f8ff82c37303d",
-            "type": "leaf",
-            "state": {
-              "type": "notion-bases-view",
-              "state": {
-                "dbFilePath": "LEA-Obsidian/Order tracker/_database.md"
-              },
-              "icon": "table",
-              "title": "Order tracker"
-            }
-          },
-          {
-            "id": "95342bcec2fbaaa1",
-            "type": "leaf",
-            "state": {
-              "type": "notion-bases-view",
-              "state": {
-                "dbFilePath": "LEA-Obsidian/Questions-requests/_database.md"
-              },
-              "icon": "table",
-              "title": "Questions-requests"
-            }
-          },
-          {
-            "id": "9d83d47aed8dab0a",
-            "type": "leaf",
-            "state": {
-              "type": "notion-bases-view",
-              "state": {
-                "dbFilePath": "LEA-Obsidian/source Library/_database.md"
-              },
-              "icon": "table",
-              "title": "source Library"
-            }
-          },
-          {
-            "id": "83ff3ba292ea751c",
+            "id": "892dcce0bbc3b0a4",
             "type": "leaf",
             "state": {
               "type": "notion-bases-view",
@@ -67,8 +19,7 @@
               "title": "Tasks"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +129,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ff3ba292ea751c",
+  "active": "892dcce0bbc3b0a4",
   "lastOpenFiles": [
+    "LEA-Obsidian/Project management/Tasks/In progress/Learn git.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/design internal structure.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/book X kitchen.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/design external shell in cad.md",
     "LEA-Obsidian/Project management/Tasks/_database.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Print the shells.md",
+    "LEA-Obsidian/Project management/Tasks/Templates/Task template.md",
+    "LEA-Obsidian/Project management/Tasks/Templates",
+    "LEA-Obsidian/Project management/Tasks/Done/dummy.md",
+    "LEA-Obsidian/Project management/Tasks/Done",
+    "LEA-Obsidian/Project management/Tasks/In progress/send parameters to structures.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/move files to the correct branches.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/move everything to the new Git.md",
+    "LEA-Obsidian/Project management/Tasks/In progress/Make code readable.md",
+    "LEA-Obsidian/Project management/Tasks/In progress",
+    "LEA-Obsidian/Project management/Tasks/Not started/Test asssembled electronics.md",
+    "LEA-Obsidian/Project management/Tasks/Not started/Assemble elctronics.md",
+    "LEA-Obsidian/Project management/Tasks/Not started",
+    "LEA-Obsidian/Project management/Projects/_database.md",
     "LEA-Obsidian/source Library/_database.md",
     "LEA-Obsidian/Questions-requests/_database.md",
     "LEA-Obsidian/Order tracker/_database.md",

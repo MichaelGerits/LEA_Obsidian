@@ -1,8 +1,7 @@
 ---
-
-Status: In progress
+Status: Done
 Due: 2026-11-07
 Assigned:
   - Marcel
-  - Eduard Toma
+  - Eddie
 ---

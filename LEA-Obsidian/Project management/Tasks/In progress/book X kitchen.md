@@ -1,8 +1,7 @@
 ---
-
-Status: In progress
-Due: 2026-11-08
+Status: Not started
+Due:
 Assigned:
-  - LEA TeamLeader
   - Daria
+  - Michael
 ---

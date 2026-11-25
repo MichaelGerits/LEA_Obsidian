@@ -40,4 +40,7 @@ views:
     columnWidths: {}
     pinnedColumnId:
     name: Board
+    includeSubfolders: true
+    boardHideNoValue: true
+askTemplateOnCreate: true
 ---
