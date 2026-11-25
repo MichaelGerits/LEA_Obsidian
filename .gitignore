@@ -3,3 +3,6 @@
 *.env
 .venv
 .grimoire.log
+
+# Obsidian UI state — local per-device, noisy in version control
+.obsidian/workspace.json
