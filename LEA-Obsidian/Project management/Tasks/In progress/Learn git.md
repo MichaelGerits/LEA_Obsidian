@@ -8,6 +8,4 @@ Assigned:
   - m.r.gerlei
   - Guilherme
   - Eduard Toma
-Projects:
-  - "[[Project management/Projects/Get Git in order|Get Git in order]]"
 ---

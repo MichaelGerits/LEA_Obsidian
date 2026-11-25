@@ -1,9 +1,9 @@
 ---
 
 Worksesh: []
-Status: Done
-Due: 2026-10-26
+Status: In progress
+Due: 2026-11-08
 Assigned:
   - LEA TeamLeader
-Projects: []
+  - Daria
 ---

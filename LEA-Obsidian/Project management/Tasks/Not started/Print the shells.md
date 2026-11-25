@@ -8,6 +8,4 @@ Assigned:
   - t.a.iordache
   - i.novac
   - a.rybka@student.tudelft.nl
-Projects:
-  - "[[Project management/Projects/Manufacturing of validation flight|Manufacturing of validation flight]]"
 ---
