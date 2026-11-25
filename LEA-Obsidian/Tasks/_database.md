@@ -53,4 +53,5 @@ folderArrangement:
   enabled: true
   propertyIds:
     - Status
+templateFolder: LEA-Obsidian/Tasks/Templates
 ---

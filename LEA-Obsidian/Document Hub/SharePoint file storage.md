@@ -1,9 +1,3 @@
----
-
-Status: Archive
-Assigned: []
-
----
 
 # SharePoint file storage
 
