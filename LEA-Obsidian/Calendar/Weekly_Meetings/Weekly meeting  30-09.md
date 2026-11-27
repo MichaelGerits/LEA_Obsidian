@@ -24,6 +24,9 @@ attendees:
 	### Structure update
 	- 
 	### simulation update
+	- check all the azssumpptionss
+	- rewrite code accordig to n2 chart
+	- sensitivity sweep on glob_parameters and assump
 	- 
 	### manufacturing updates
 	- 
